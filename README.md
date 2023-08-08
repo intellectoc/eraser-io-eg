@@ -2,12 +2,14 @@
 
 # eraser-io-eg
 # This shows a Example of Cloud Architecture Diagram, Drawn from eraser, we can edit this as code
-![Cloud Architecgture](/.eraser/QZaoZU96wtJGhuUK0utn___xHDxrJF90SVzAXgzcyI4YCKpeqF3___---figure---M1FcKQTXK8awVpoMb50ks---figure---Ank_ZwDYWqQmWROFWD-Xgw.png "Cloud Architecgture")
+
+
+![Figure 5](/.eraser/QZaoZU96wtJGhuUK0utn___xHDxrJF90SVzAXgzcyI4YCKpeqF3___---figure---owlFkOhiPR8QYc80nomBp---figure---QW5p3AeK7MeaZW8bz2B1lA.png "Figure 5")
 
 
 
 # Sample Flow Diagram
-![Figure 1](/.eraser/QZaoZU96wtJGhuUK0utn___xHDxrJF90SVzAXgzcyI4YCKpeqF3___---figure---ixmeNs_QTSH2mJNpU9gJ4---figure---3-VPPUV_2bbS_vpxeK7PdA.png "Figure 1")
+![Figure 1](/.eraser/QZaoZU96wtJGhuUK0utn___xHDxrJF90SVzAXgzcyI4YCKpeqF3___---figure---_DpEV37f0aGdb6SAtncxj---figure---3-VPPUV_2bbS_vpxeK7PdA.png "Figure 1")
 
 
 
