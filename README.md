@@ -3,7 +3,7 @@
 # eraser-io-eg
  
 
-![Figure 1](/.eraser/QZaoZU96wtJGhuUK0utn___xHDxrJF90SVzAXgzcyI4YCKpeqF3___---figure---AFKBbk9ivj1M76jz28NmD---figure---Ank_ZwDYWqQmWROFWD-Xgw.png "Figure 1")
+![Figure 1](/.eraser/QZaoZU96wtJGhuUK0utn___xHDxrJF90SVzAXgzcyI4YCKpeqF3___---figure---VAMEOcpP0EV-wLT_B_bPD---figure---Ank_ZwDYWqQmWROFWD-Xgw.png "Figure 1")
 
 
 
